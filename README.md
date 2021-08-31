@@ -68,8 +68,3 @@
 
 ## 使用说明
 ​	将压缩包解压缩后，进入PlaneGame文件夹，<span style="color:red; font-weight:bold">在该文件夹中启动Windows命令处理器</span>（在Windows操作系统下：window键+r），然后输入 <code>python rungame.py</code>即可启动游戏，点击窗口的 <span style="color:yellow">Play</span> 按钮 即可开始游戏。
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=H-YaoDong&repo=PlaneGame&show_owner=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
